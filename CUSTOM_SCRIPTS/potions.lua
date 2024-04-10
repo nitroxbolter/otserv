@@ -1,7 +1,7 @@
 ---- POTIONS WITH COOLDOWN ---
 ---- EDIT BELOW: local cooldown = 10, 10 = Seconds, change it to the number you want
 ---- Replace file on data/actions/scripts/other/potions.lua
-
+----
 
 
 local berserk = Condition(CONDITION_ATTRIBUTES)
